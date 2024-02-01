@@ -1,5 +1,5 @@
 # RazorCapital
 Algorithmic Trading
 
-Notes
+#### Notes
 https://www.youtube.com/watch?v=xfzGZB4HhEE
